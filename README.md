@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | React | Next.js | Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00C2FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 TY BSc IT Student  
-- 💻 Passionate Full Stack Developer  
+- 💻 Full Stack Developer  
 - 🌱 Currently learning Backend + Advanced React  
 - ⚡ Love building real-world projects  
 - 📍 Mumbai, India  
@@ -20,19 +20,19 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-C • C++ • Java • Python • JavaScript
+C • C++ • Java • Python
 
 ### 🎨 Frontend
-HTML • CSS • Bootstrap • Tailwind CSS • React.js • Next.js
+HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React.js • Next.js
 
 ### ⚙️ Backend
-Node.js • Express.js
+Node.js • Express.js • PHP
 
 ### 🗄️ Database
 MongoDB • MySQL • PostgreSQL
 
 ### 🛠️ Tools
-VS Code • Git • GitHub • Postman
+VS Code • Git • GitHub • Postman • Node.JS • pgAdmin 4 • MongoDB Compass • Xampp • IDLE
 
 ---
 
@@ -78,9 +78,3 @@ Split expenses with friends easily.
 - 📧 pawarrahul18220@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/rahulpawar120/  
 - 🌐 GitHub: https://github.com/RahulPawar140
-
----
-
-## ⚡ Quote
-
-> Code. Build. Learn. Repeat 🚀
