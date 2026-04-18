@@ -7,28 +7,26 @@
 
 ---
 
-## 🚀 About Me
-
 - 🎓 TY BSc IT Student  
 - 💻 Full Stack Developer  
-- 🌱 Currently learning Backend + Advanced React  
-- ⚡ Love building real-world projects  
+-  Currently learning Backend + Advanced React  
+-  Love building real-world projects  
 - 📍 Mumbai, India  
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills 
 
-### 👨‍💻 Languages
+### Languages
 C • C++ • Java • Python
 
-### 🎨 Frontend
+### Frontend
 HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React.js • Next.js
 
-### ⚙️ Backend
+### Backend
 Node.js • Express.js • PHP
 
-### 🗄️ Database
+### Database
 MongoDB • MySQL • PostgreSQL
 
 ### 🛠️ Tools
@@ -36,7 +34,7 @@ VS Code • Git • GitHub • Postman • Node.JS • pgAdmin 4 • MongoDB Com
 
 ---
 
-## 🔥 Featured Projects
+## Projects
 
 ### 🎬 Movie Nexus
 Movie discovery web app using OMDb API with responsive UI.
