@@ -27,7 +27,7 @@ HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React.js • Next
 Node.js • Express.js • PHP
 
 ### Database
-MongoDB • MySQL • PostgreSQL
+MySQL • PostgreSQL
 
 ### 🛠️ Tools
 VS Code • Git • GitHub • Postman • Node.JS • pgAdmin 4 • MongoDB Compass • Xampp • IDLE
