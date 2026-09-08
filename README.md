@@ -36,7 +36,7 @@
 
 ### Databases
 
-`MySQL` • `PostgreSQL` • `MongoDB`
+`MySQL` • `PostgreSQL`
 
 ### QA & Automation
 
@@ -44,7 +44,7 @@
 
 ### Tools
 
-`Git` • `GitHub` • `Postman` • `VS Code` • `pgAdmin 4` • `MongoDB Compass` • `XAMPP`
+`Git` • `GitHub` • `Postman` • `VS Code` • `pgAdmin 4` • `XAMPP`
 
 ---
 
