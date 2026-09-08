@@ -138,7 +138,6 @@ I work with modern test automation practices including:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPawar140&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📫 Connect With Me
