@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00C2FF&center=true&vCenter=true&width=800&lines=QA+Automation+Tester;Playwright+%7C+TypeScript+%7C+Cucumber;BDD+%7C+POM+%7C+UI+Automation;REST+API+Testing+%7C+Postman;Full-Stack+Developer+with+a+QA+Mindset" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-QA%20Automation-2EAD33?style=for-the-badge" alt="QA Automation" />
-  <img src="https://img.shields.io/badge/UI%20Automation-Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" />
-  <img src="https://img.shields.io/badge/Development-Full--Stack-3178C6?style=for-the-badge" alt="Full-Stack Development" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -174,6 +167,7 @@ An API automation framework designed to validate REST APIs for a Batch and Atten
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" alt="REST API" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/BDD-6A5ACD?style=for-the-badge" alt="BDD" />
